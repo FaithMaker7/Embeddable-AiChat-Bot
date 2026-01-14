@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Embeddable Chat Widget",
+  "description": "A floating AI assistant widget that expands into a chat interface with support for text, images, and file uploads, powered by Gemini 1.5 Pro/Flash.",
+  "requestFramePermissions": []
+}
